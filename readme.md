@@ -1,7 +1,3 @@
-Certainly! Here's a template for a `README.md` file tailored to your project on network intrusion detection using the NSL-KDD dataset and XGBoost model.
-
----
-
 # Network Intrusion Detection with NSL-KDD Dataset
 
 This project involves building a network intrusion detection system using the NSL-KDD dataset. The model is designed to classify network connections as either normal or suspicious. The XGBoost algorithm has been utilized for this task due to its high performance and accuracy.
@@ -113,7 +109,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
-
----
-
-Feel free to customize and expand this template according to your project's specifics!
