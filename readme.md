@@ -101,11 +101,7 @@ The best hyperparameters found using GridSearchCV are:
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions for improvements or additional features.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
-- [NSL-KDD Dataset](https://www.unb.ca/cic/datasets/nsl.html)
+- [NSL-KDD Dataset](https://www.kaggle.com/datasets/hassan06/nslkdd)
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)
