@@ -1,0 +1,16 @@
+{
+    "services": {
+        "ssh": {
+            "port": 22,
+            "enabled": true
+        },
+        "http": {
+            "port": 80,
+            "enabled": false
+        }
+    },
+    "logging": {
+        "log_file": "logs/honeypot_log.txt",
+        "log_level": "INFO"
+    }
+}
